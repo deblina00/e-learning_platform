@@ -1,6 +1,6 @@
-import React from "react";
+
 import { Link } from "react-router-dom";
-import { BookOpen, Calendar, User, Users } from "lucide-react";
+import { BookOpen} from "lucide-react";
 
 const Footer = () => {
   return (
